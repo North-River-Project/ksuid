@@ -11,7 +11,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/north-river-project/ksuid"
+	"github.com/segmentio/ksuid"
 )
 
 var (

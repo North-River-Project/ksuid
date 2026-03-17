@@ -98,7 +98,7 @@ func TestParse(t *testing.T) {
 }
 
 func TestIssue25(t *testing.T) {
-	// https://github.com/north-river-project/ksuid/issues/25
+	// https://github.com/segmentio/ksuid/issues/25
 	for _, s := range []string{
 		"aaaaaaaaaaaaaaaaaaaaaaaaaaa",
 		"aWgEPTl1tmebfsQzFP4bxwgy80!",

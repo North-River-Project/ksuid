@@ -1,3 +1,3 @@
-module github.com/north-river-project/ksuid
+module github.com/segmentio/ksuid
 
 go 1.12
